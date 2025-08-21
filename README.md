@@ -1,2 +1,76 @@
-# From-Tracks-to-Trends-Analyzing-Music-Listening-Behavior
-This project explores user music streaming data to uncover listening patterns across two cities. Using Python (pandas, matplotlib, seaborn), the analysis follows three stages:  Data Exploration, Preprocessing, and Hypothesis Testing &amp; Analysis.
+# 🎵 From Tracks to Trends: Analyzing Music Listening Behavior
+
+## 📌 Introduction
+This project analyzes music streaming data to uncover listening behavior patterns across two cities.  
+The objective is to determine whether user activity differs by **city** and by **day of the week**, transforming raw data into actionable insights.
+
+---
+
+## 📂 Dataset
+The dataset (`music_project_en.csv`) contains user listening activity with the following columns:
+
+- **userID** – unique identifier for each user  
+- **Track** – song title  
+- **artist** – artist name  
+- **genre** – music genre  
+- **City** – user’s city  
+- **time** – time of playback (HH:MM:SS)  
+- **Day** – day of the week  
+
+---
+
+## ⚙️ Methodology
+The analysis follows three main stages:
+
+1. **Data Exploration**  
+   - Overview of dataset structure and descriptive statistics  
+   - Initial observations of user activity  
+
+2. **Data Preprocessing**  
+   - Cleaning column names  
+   - Handling missing values and duplicates  
+   - Preparing data for analysis  
+
+3. **Analysis & Hypothesis Testing**  
+   - Investigating music activity across weekdays and cities  
+   - Comparing listening trends between groups  
+   - Visualizing results with **matplotlib** and **seaborn**  
+
+---
+
+## 📊 Results
+- Identified user listening trends by **city** and **day of the week**  
+- Confirmed/Rejected hypotheses about user behavior differences  
+- Generated visualizations to support findings  
+
+---
+
+## ✅ Conclusion
+The project demonstrates proficiency in:  
+- **Python (pandas, matplotlib, seaborn)**  
+- **Data cleaning and preprocessing**  
+- **Exploratory Data Analysis (EDA)**  
+- **Hypothesis testing** for behavioral insights  
+
+These results provide a data-driven perspective on how listening habits vary across different urban contexts and timeframes.
+
+---
+
+## 💻 Tech Stack
+- Python  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook  
+
+---
+
+## 📈 Sample Visualization
+_Add example plots or charts here once generated._
+
+---
+
+## 🤝 Contact
+Created by **[Your Name]**  
+🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
+
