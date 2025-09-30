@@ -69,12 +69,7 @@ These results provide a data-driven perspective on how listening habits vary acr
 
 ---
 
-## 📈 Sample Visualization
-_Add example plots or charts here once generated._
-
----
-
 ## 🤝 Contact
-Created by **[Your Name]**  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
+Created by **Diana Paola Ayala Roldán **  
+🔗 [LinkedIn](https://linkedin.com/in/dianisay) 
 
